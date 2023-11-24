@@ -17,7 +17,7 @@ There's a need for more comprehensive information sessions about health insuranc
 
 The study uncovers the expectations of international students regarding health insurance and their satisfaction with the current plan.
 
-## Repository Contents**
+## **Repository Contents**
 Research Data: Includes survey data and focus group findings.
 
 Analysis Reports: Detailed reports and interpretations of the survey results.
